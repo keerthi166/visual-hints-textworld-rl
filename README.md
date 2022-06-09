@@ -6,7 +6,7 @@ Repository for VisualHints: A Visual-Lingual Environment for Multimodal Reinforc
     title = "VisualHints: A Visual-Lingual Environment for Multimodal Reinforcement Learning",
     author = "Carta, Thomas and Chaudhury, Subhajit and Talamadupula, Kartik and Tatsubori, Michiaki",
     booktitle = "arxiv",
-    year = "2020"
+    year = "2022"
 }
 ```
 
