@@ -1,12 +1,12 @@
 # VisualHints
-Repository for VisualHints: A Visual-Lingual Environment for Multimodal Reinforcement Learning. We provide `VisualHints` environment with various options for customizing the type of visual hints to emulate various real-world scenarios.
+Repository for VisualHints: A Visual-Lingual Environment for Multimodal Reinforcement Learning. We provide `VisualHints` environment with various options for customizing the type of visual hints to emulate various real-world scenarios. This work is submitted to Neurips Benchmark Track
 
 ```
 @inproceedings{carta-etal-2020-vizhints,
     title = "VisualHints: A Visual-Lingual Environment for Multimodal Reinforcement Learning",
     author = "Carta, Thomas and Chaudhury, Subhajit and Talamadupula, Kartik and Tatsubori, Michiaki",
     booktitle = "arxiv",
-    year = "2020"
+    year = "2022"
 }
 ```
 
